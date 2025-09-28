@@ -25,3 +25,11 @@ Constat : de plus en plus d'applications nous entourent et certains utilisateurs
 —> outil qui se superpose à n'importe quelle application, auquel on pose une question en langage naturel sur l'utilisation de l’application et qui est capable d'y répondre soit grâce à la lecture de la FAQ soit parce que plusieurs mécaniques son semblables d'une application à l'autre (ex. Applications marchandes… )
 
 business model : abonnement de l'utilisateur (nécessaire car llm)
+
+## Monal'
+
+Constat : la diversification alimentaire de bébé n'est pas évidente à suivre, mettre en place et comprendre. Par ailleurs il est important de communiquer correctement les éventuelles réactions (ou non) aux professionnels qui gardent les enfants afin d'éviter d'éventuelles allergies.
+
+--> outil pour suivre l'introduction des aliments, monitorer le nombre de fois où ils ont été mangés et les éventuelles réactions; suggestions de recettes et d'introduction en fonction de la saisonnalité et de l'âge du bébé; transmission aux professionnels qui gardent l'enfant.
+
+business model : abonnement des parents, outil gratuit pour les crèches et professionnels de la petite enfance
