@@ -16,6 +16,5 @@ Bonjour ! Ce dépôt contient les fichiers sources et les notes de travail de mo
 
 ### À propos de moi
 
-Cécilia DI MAULO - Product Owner
+Cecilia DI MAULO - Product Owner
 * **[Mon Profil LinkedIn](https://www.linkedin.com/in/cecilia-di-maulo)**
-* # portfolio-product-owner
